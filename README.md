@@ -27,7 +27,7 @@ To start this build out, begin by creating a new React project:
 
 1. ```$ npm init react-app functional-components```
 1. Next ```$ cd functional-components```
-1. Open text text editor
+1. Open text editor
 1. ```$ npm run start```
 1. Happy coding!
 
